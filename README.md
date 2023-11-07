@@ -1,17 +1,6 @@
 # Reddit Video Maker Bot 🎥
 
-All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
-
-Created by Lewis Menelaws & [TMRRW](https://tmrrwinc.ca)
-
-<a target="_blank" href="https://tmrrwinc.ca">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/6053155/170528535-e274dc0b-7972-4b27-af22-637f8c370133.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54f0f7.png">
-  <img src="https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54f0f7.png" width="350">
-</picture>
-
-</a>
+All done WITHOUT video editing or asset compiling. Just pure programming magic.
 
 ## Motivation 
 
@@ -20,7 +9,7 @@ The only original thing being done is the editing and gathering of all materials
 
 ... but what if we can automate that process? 
 
-## Disclaimers 🚨
+## Disclaimers 
 
 - **At the moment**, this repository won't attempt to upload this content through this bot. It will give you a file that
   you will then have to upload manually. This is for the sake of avoiding any sort of community guideline issues.
